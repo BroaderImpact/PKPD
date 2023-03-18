@@ -18,7 +18,7 @@ Develop a data collection plan and establish data governance policies to ensure 
 
 ### Step 2: Data preprocessing
 
-Clean and transform the raw data using R packages such as dplyr, tidyr, and data.table.
+Clean and transform the raw data using R packages such as `dplyr`, `tidyr`, and `data.table`.
 Perform missing value imputation using R packages such as impute, missForest, and VIM.
 Transform the data using R packages such as scales, caret, and MLmetrics.
 Integrate data from multiple sources using R packages such as merge, join, and rbind.
