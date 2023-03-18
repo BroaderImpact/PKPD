@@ -19,20 +19,20 @@ Develop a data collection plan and establish data governance policies to ensure 
 ### Step 2: Data preprocessing
 
 Clean and transform the raw data using R packages such as `dplyr`, `tidyr`, and `data.table`.
-Perform missing value imputation using R packages such as impute, missForest, and VIM.
-Transform the data using R packages such as scales, caret, and MLmetrics.
-Integrate data from multiple sources using R packages such as merge, join, and rbind.
+Perform missing value imputation using R packages such as `impute`, `missForest`, and VIM.
+Transform the data using R packages such as `scales`, `caret`, and `MLmetrics`.
+Integrate data from multiple sources using R packages such as `merge`, `join`, and `rbind`.
 
 ### Step 3: Data analysis
 
-Conduct exploratory data analysis (EDA) using R packages such as ggplot2, plotly, and lattice.
-Apply statistical modeling techniques using R packages such as nlme, lme4, and survival.
-Perform hypothesis testing and statistical inference using R packages such as stats, car, and psych.
-Visualize the results using R packages such as ggplot2, plotly, and shiny.
+Conduct exploratory data analysis (EDA) using R packages such as `ggplot2`, `plotly`, and `lattice`.
+Apply statistical modeling techniques using R packages such as `nlme`, `lme4`, and `survival`.
+Perform hypothesis testing and statistical inference using R packages such as `stats`, `car`, and `psych`.
+Visualize the results using R packages such as `ggplot2`, `plotly`, and `shiny`.
 
 ### Step 4: Results reporting
 
-Generate reports using R markdown, LaTeX, or Sweave.
-Create visualizations using R packages such as ggplot2, plotly, and shiny.
-Use interactive dashboards and web applications using R packages such as shiny, flexdashboard, and shinydashboard.
+Generate reports using [R markdown](https://rmarkdown.rstudio.com/), [LaTeX](https://www.latex-project.org/), or [Sweave](https://rpubs.com/YaRrr/SweaveIntro).
+Create visualizations using R packages such as `ggplot2`, `plotly`, and `shiny`.
+Use interactive dashboards and web applications using R packages such as `shiny`, `flexdashboard`, and `shinydashboard`.
 In summary, building an internal infrastructure pipeline for Pharmacokinetic and Pharmacodynamic data preprocessing and visualization in R involves data collection, preprocessing, analysis, and results reporting using a variety of R packages and tools. By following these steps, stakeholders can gain insights into the data and make data-driven decisions to improve drug development and patient outcomes.
