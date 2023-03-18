@@ -35,4 +35,5 @@ Visualize the results using R packages such as `ggplot2`, `plotly`, and `shiny`.
 Generate reports using [R markdown](https://rmarkdown.rstudio.com/), [LaTeX](https://www.latex-project.org/), or [Sweave](https://rpubs.com/YaRrr/SweaveIntro).
 Create visualizations using R packages such as `ggplot2`, `plotly`, and `shiny`.
 Use interactive dashboards and web applications using R packages such as `shiny`, `flexdashboard`, and `shinydashboard`.
+
 In summary, building an internal infrastructure pipeline for Pharmacokinetic and Pharmacodynamic data preprocessing and visualization in R involves data collection, preprocessing, analysis, and results reporting using a variety of R packages and tools. By following these steps, stakeholders can gain insights into the data and make data-driven decisions to improve drug development and patient outcomes.
